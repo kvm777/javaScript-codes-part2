@@ -1,0 +1,20 @@
+.mybutton{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(12, 2, 2);
+    color: rgb(227, 225, 225);
+    border: 2px solid;
+    border-radius: 15px;
+    font-family: san-serif ;
+}
+#timer{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif ;
+    color: aqua;
+}
+#myDiv{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 15px;
+    background-color: rgb(12, 2, 2);
+}

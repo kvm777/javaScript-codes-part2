@@ -1,0 +1,35 @@
+#gameContainer{
+    text-align: center;
+    font-family: cursive;
+    margin: 0;
+    padding: 0; 
+}
+
+#gameBoard{
+    border: 2px solid;
+}
+
+#scoreText{
+    font-size: 90px;
+    font-family: "permanent marker",cursive  ;
+}
+
+/* #start{
+    height: 30px;
+    width: 10px;
+    font-size: 20px;
+    border: 0.5px solid;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+} */
+
+#reset{
+    height: 30px;
+    width: 80px;
+    font-size: 20px;
+    border: 0.5px solid;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
